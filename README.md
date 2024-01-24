@@ -1,4 +1,4 @@
-# Aisk C2lang
+# C2lang Homebrew Formulae
 
 ## How do I install these formulae?
 
